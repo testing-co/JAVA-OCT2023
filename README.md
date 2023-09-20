@@ -21,14 +21,14 @@
         <td>W1D2 </td>
         <td>2</td>
         <td>Java OOP</td>
-        <td><a href="./Java2OOP/Part1"> OOP, access modifier, constructors </a> </td>
+        <td>OOP, access modifier, constructors </td>
         <td> </td>
     </tr>
     <tr>
         <td>W1D3 </td>
         <td></td>
         <td> - Advanced OOP</td>
-        <td><a href="./Java2OOP/Part2/">Inheritance, interface, Abstract </a></td>
+        <td>Inheritance, interface, Abstract</td>
         <td> require <a href="https://login.codingdojo.com/m/315/9381/65677">STS</a></td>
     </tr>
     <tr>
@@ -56,14 +56,14 @@
         <td>W2D2 </td>
         <td>4</td>
         <td> MVC </td>
-        <td>API CRUD, Web Dashboard & Details (<a href="./Java4MVC/">Code</a>)</td>
+        <td>API CRUD, Web Dashboard & Details</td>
         <td> require <a href="https://login.codingdojo.com/m/315/9533/64293">MySQL</a> </td>
     </tr>
     <tr>
         <td>W2D3 </td>
         <td></td>
         <td></td>
-        <td>Web CRUD, Data binding & form:form (<a href="./Java4MVC/">Code</a>)</td>
+        <td>Web CRUD, Data binding & form:form </td>
         <td> </td>
     </tr>
     <tr>
