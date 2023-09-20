@@ -1,17 +1,17 @@
 # Welcome to the JAVA stack with Heidi
 
-## Schedule
-| Chatpers | Day | Reference |
-|----------------- | -----------------| --------------|
-| Fundamentals | W1D1 | [Fundamentals](./Java1Fundamentals/)|
-| OOP | W1D2 | [OOP123](./Java2OOP/)|
-|     | W1D3 | [InheritanceDemo, InterfaceDemo](./Java2OOP/)|
-| Spring | W1D5 | [API & JSP](./Java3Spring/spring-jsp-demo)|
-|     | W2D1 | [Session & Form](./Java3Spring/spring-session-form)|
-| Spring MVC | W2D2-3 | [MVC](./Java4MVC)|
-| 1:N | W2D4 | [Notes](./Java4MVC/1nNotes.md)|
-| Auth | W2D5 | [PseudoCode](./Java5FullSpring/Auth)|
-| Full Spring |  | [Notes](./Java5FullSpring)|
+## Schedule (Links are not available until that lecture is complete)
+| Category | Reference | Remarks | Day|
+|----------------- | -----------------| --------------| ----- |
+| Fundamentals |  [Fundamentals](./Java1Fundamentals/)| W1D1 |
+| OOP | [OOP123](./Java2OOP/)|W1D2 | 
+|     |  [InheritanceDemo, InterfaceDemo](./Java2OOP/)|W1D3 |
+| Spring | [API & JSP](./Java3Spring/spring-jsp-demo)|  W1D5 |
+|     |  [Session & Form](./Java3Spring/spring-session-form)| W2D1 |
+| Spring MVC |  [MVC](./Java4MVC)| W2D2-3 |
+| 1:N | [Notes](./Java4MVC/1nNotes.md)|  W2D4 |
+| Auth |  [PseudoCode](./Java5FullSpring/Auth)| W2D5 |
+| Full Spring |[Notes](./Java5FullSpring)| | 
 
 
 
