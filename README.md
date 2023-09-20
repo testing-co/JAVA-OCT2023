@@ -3,15 +3,15 @@
 ## Schedule (Links are not available until that lecture is complete)
 | Category | Reference | Remarks | Day|
 |----------------- | -----------------| --------------| ----- |
-| Fundamentals |  [Fundamentals](./Java1Fundamentals/)| W1D1 |
-| OOP | [OOP123](./Java2OOP/)|W1D2 | 
-|     |  [InheritanceDemo, InterfaceDemo](./Java2OOP/)|W1D3 |
-| Spring | [API & JSP](./Java3Spring/spring-jsp-demo)|  W1D5 |
-|     |  [Session & Form](./Java3Spring/spring-session-form)| W2D1 |
-| Spring MVC |  [MVC](./Java4MVC)| W2D2-3 |
-| 1:N | [Notes](./Java4MVC/1nNotes.md)|  W2D4 |
-| Auth |  [PseudoCode](./Java5FullSpring/Auth)| W2D5 |
-| Full Spring |[Notes](./Java5FullSpring)| | 
+| Fundamentals |  [Fundamentals](./Java1Fundamentals/)| | W1D1 |
+| OOP | [OOP123](./Java2OOP/)| | W1D2 | 
+|     |  [InheritanceDemo, InterfaceDemo](./Java2OOP/)| | W1D3 |
+| Spring | [API & JSP](./Java3Spring/spring-jsp-demo)| | W1D5 |
+|     |  [Session & Form](./Java3Spring/spring-session-form)| | W2D1 |
+| Spring MVC |  [MVC](./Java4MVC)| | W2D2-3 |
+| 1:N | [Notes](./Java4MVC/1nNotes.md)|  | W2D4 |
+| Auth |  [PseudoCode](./Java5FullSpring/Auth)|| W2D5 |
+| Full Spring |[Notes](./Java5FullSpring)| | | 
 
 
 
