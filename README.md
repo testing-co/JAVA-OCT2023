@@ -56,14 +56,14 @@
         <td>W2D2 </td>
         <td>4</td>
         <td> MVC </td>
-        <td>API CRUD, Web Dashboard & Details (<a href="./Java4MVC/">Code </a>)</td>
+        <td>API CRUD, Web Dashboard & Details (<a href="./Java4MVC/">Code</a>)</td>
         <td> require <a href="https://login.codingdojo.com/m/315/9533/64293">MySQL</a> </td>
     </tr>
     <tr>
         <td>W2D3 </td>
         <td></td>
         <td></td>
-        <td>Web CRUD, Data binding & form:form (<a href="./Java4MVC/">Code </a>)</td>
+        <td>Web CRUD, Data binding & form:form (<a href="./Java4MVC/">Code</a>)</td>
         <td> </td>
     </tr>
     <tr>
