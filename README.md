@@ -14,7 +14,7 @@
         <td>W1D1 </td>
         <td>1</td>
         <td>Java Fundamentals</td>
-        <td><a href="./Java1Fundamentals/"> Fundamentals </a></td>
+        <td>Fundamentals (<a href="./Java1Fundamentals/"> Code </a>)</td>
         <td></td>
     </tr>
     <tr>
