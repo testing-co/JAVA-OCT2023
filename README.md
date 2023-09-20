@@ -1,5 +1,20 @@
 # Welcome to the JAVA stack with Heidi
 
+## Schedule
+| Chatpers | Day | Reference |
+|----------------- | -----------------| --------------|
+| Fundamentals | W1D1 | [Fundamentals](./Java1Fundamentals/)|
+| OOP | W1D2 | [OOP123](./Java2OOP/)|
+|     | W1D3 | [InheritanceDemo, InterfaceDemo](./Java2OOP/)|
+| Spring | W1D5 | [API & JSP](./Java3Spring/spring-jsp-demo)|
+|     | W2D1 | [Session & Form](./Java3Spring/spring-session-form)|
+| Spring MVC | W2D2-3 | [MVC](./Java4MVC)|
+| 1:N | W2D4 | [Notes](./Java4MVC/1nNotes.md)|
+| Auth | W2D5 | [PseudoCode](./Java5FullSpring/Auth)|
+| Full Spring |  | [Notes](./Java5FullSpring)|
+
+
+
 ## Eclipse Shortcut
 | Windows | Mac    | Functions |
 |----------------- | -----------------| --------------|
