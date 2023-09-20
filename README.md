@@ -1,19 +1,87 @@
 # Welcome to the JAVA stack with Heidi
 
 ## Schedule (Links are not available until that lecture is complete)
-| Category | Reference | Remarks | Day|
-|----------------- | -----------------| --------------| ----- |
-| Fundamentals |  [Fundamentals](./Java1Fundamentals/)| | W1D1 |
-| OOP | [OOP123](./Java2OOP/)| | W1D2 | 
-|     |  [InheritanceDemo, InterfaceDemo](./Java2OOP/)| | W1D3 |
-| Spring | [API & JSP](./Java3Spring/spring-jsp-demo)| | W1D5 |
-|     |  [Session & Form](./Java3Spring/spring-session-form)| | W2D1 |
-| Spring MVC |  [MVC](./Java4MVC)| | W2D2-3 |
-| 1:N | [Notes](./Java4MVC/1nNotes.md)|  | W2D4 |
-| Auth |  [PseudoCode](./Java5FullSpring/Auth)|| W2D5 |
-| Full Spring |[Notes](./Java5FullSpring)| | | 
-
-
+<table>
+<thead>
+    <th></th>
+    <th></th>
+    <th> Category </th>
+    <th> Topic </th>
+    <th> Remarks</th>
+</thead>
+    <tbody>
+    <tr>
+        <td>W1D1 </td>
+        <td>1</td>
+        <td>Java Fundamentals</td>
+        <td>Java Fundamentals</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>W1D2 </td>
+        <td>2</td>
+        <td>Java OOP</td>
+        <td>OOP, access modifier, constructors</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>W1D3 </td>
+        <td></td>
+        <td> - Advanced OOP</td>
+        <td>Inheritance, interface, Abstract</td>
+        <td> require <a href="https://login.codingdojo.com/m/315/9381/65677">STS</a></td>
+    </tr>
+    <tr>
+        <td>W1D4 </td>
+        <td></td>
+        <td>- Revision & Catch up</td>
+        <td>Java Olympics & Hackathon</td>
+        <td> <a href="https://github.com/heidi1105/JAVA_hackathon">Hackathon github </a></td>
+    </tr>
+    <tr>
+        <td>W1D5 </td>
+        <td>3</td>
+        <td>Spring</td>
+        <td>RestController, Routes, jsp, jstl</td>
+        <td> require <a href="https://login.codingdojo.com/m/315/9532/64266">Maven</a>, <a href="https://login.codingdojo.com/m/315/9532/64276">jsp</a></td>
+    </tr>
+    <tr>
+        <td>W2D1 </td>
+        <td></td>
+        <td></td>
+        <td>Sessions & Form</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>W2D2 </td>
+        <td>4</td>
+        <td>MVC</td>
+        <td>API CRUD, Web Dashboard & Details</td>
+        <td> require <a href="https://login.codingdojo.com/m/315/9533/64293">MySQL</a> </td>
+    </tr>
+    <tr>
+        <td>W2D3 </td>
+        <td></td>
+        <td></td>
+        <td>Web CRUD, Data binding (form:form)</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> W2D4 </td>
+        <td>5</td>
+        <td>Relationships</td>
+        <td>One-to-many</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> W2D5 </td>
+        <td>6</td>
+        <td>Full stack with Auth</td>
+        <td>login & registration</td>
+        <td> </td>
+    </tr>
+    </tbody>
+</table>
 
 ## Eclipse Shortcut
 | Windows | Mac    | Functions |
