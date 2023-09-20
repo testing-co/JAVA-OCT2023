@@ -14,21 +14,21 @@
         <td>W1D1 </td>
         <td>1</td>
         <td>Java Fundamentals</td>
-        <td>Java Fundamentals</td>
+        <td><a href="./Java1Fundamentals/"> Fundamentals </a></td>
         <td></td>
     </tr>
     <tr>
         <td>W1D2 </td>
         <td>2</td>
         <td>Java OOP</td>
-        <td>OOP, access modifier, constructors</td>
+        <td><a href="./Java2OOP/Part1"> OOP, access modifier, constructors </a> </td>
         <td> </td>
     </tr>
     <tr>
         <td>W1D3 </td>
         <td></td>
         <td> - Advanced OOP</td>
-        <td>Inheritance, interface, Abstract</td>
+        <td><a href="./Java2OOP/Part2/">Inheritance, interface, Abstract </a></td>
         <td> require <a href="https://login.codingdojo.com/m/315/9381/65677">STS</a></td>
     </tr>
     <tr>
@@ -68,16 +68,23 @@
     </tr>
     <tr>
         <td> W2D4 </td>
-        <td>5</td>
+        <td></td>
         <td>Relationships</td>
-        <td>One-to-many</td>
+        <td>One-to-many notes</td>
         <td> </td>
     </tr>
     <tr>
         <td> W2D5 </td>
-        <td>6</td>
-        <td>Full stack with Auth</td>
-        <td>login & registration</td>
+        <td>5</td>
+        <td>Auth</td>
+        <td>PseudoCode</td>
+        <td> </td>
+    </tr>
+        <tr>
+        <td>  </td>
+        <td></td>
+        <td>Full Spring with Auth</td>
+        <td>Notes </td>
         <td> </td>
     </tr>
     </tbody>
