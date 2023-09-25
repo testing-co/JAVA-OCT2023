@@ -1,17 +1,3 @@
-
-
-
-    // 5. Casting (implicit & explicit, Null VALUE)
-
-    // the following will be demonstrated in other util & test
-    // 6. dependency injection (using methods in another file) & overloading methods
-    // -------------- Alfred Bot ------------------
-    // 7. Fixed Array & Loops
-    // 8. ArrayList
-
-    // -------------- Cafe Business Logic --------------
-
-
 // 1. compile java (javac & java)
 // ------------- First Java Program ------------
 public class JavaBasicUtil{
@@ -23,7 +9,7 @@ public class JavaBasicUtil{
         System.out.println("Hello World!!!");
 
         // 2. variables 
-        // 2.1 int, double, boolean, char, String )
+        // int, double, boolean, char, String
         String projectTitle = "Cafe Java";
         String developer = "Heidi";
         Integer totalFiles = 2; // 0.5 files doesn't make sense
@@ -37,8 +23,6 @@ public class JavaBasicUtil{
         System.out.println("Difficulty: " + difficulty);
 
 
-
-        // 2.2 Primitive VS Wrapper Class
 
         // 3. conditionals & ternary
         if(isDone){
