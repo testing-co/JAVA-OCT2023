@@ -21,7 +21,8 @@
         <td>W1D2 </td>
         <td>2</td>
         <td>Java OOP</td>
-        <td>OOP, access modifier, constructors (<a href="./Java2OOP/Part1/OOP1/">OOP1</a> | <a href="./Java2OOP/Part1/OOP2/">OOP2</a> | <a href="./Java2OOP/Part1/OOP3/">OOP3</a>)</td>
+        <td>OOP, access modifier, constructors 
+        (<a href="./Java2OOP/Part1/OOP1/">OOP1</a> | <a href="./Java2OOP/Part1/OOP2/">OOP2</a> | <a href="./Java2OOP/Part1/OOP3/">OOP3</a>)</td>
         <td> </td>
     </tr>
     <tr>
