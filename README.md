@@ -22,8 +22,8 @@
         <td>2</td>
         <td>Java OOP</td>
         <td>OOP, access modifier, constructors 
-        (<a href="./Java2OOP/Part1/OOP1/">OOP1</a> | <a href="./Java2OOP/Part1/OOP2/">OOP2</a> | <a href="./Java2OOP/Part1/OOP3/">OOP3</a>)</td>
-        <td> </td>
+        </td>
+        <td> (<a href="./Java2OOP/Part1/OOP1/">OOP1</a> | <a href="./Java2OOP/Part1/OOP2/">OOP2</a> | <a href="./Java2OOP/Part1/OOP3/">OOP3</a>)</td>
     </tr>
     <tr>
         <td>W1D3 </td>
