@@ -29,7 +29,7 @@
         <td>W1D3 </td>
         <td></td>
         <td> - Advanced OOP</td>
-        <td>Inheritance, interface, Abstract</td>
+        <td><a href="./Java2OOP/Part2/InheritanceDemo/src/com/heidichen/inheritancedemo/">Inheritance</a>, interface, Abstract</td>
         <td> require <a href="https://login.codingdojo.com/m/315/9381/65677">STS</a></td>
     </tr>
     <tr>
