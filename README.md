@@ -44,7 +44,7 @@
         <td>3</td>
         <td>Spring</td>
         <td>RestController, Routes, jsp, jstl</td>
-        <td> require <a href="https://login.codingdojo.com/m/315/9532/64266">Maven</a>, <a href="https://login.codingdojo.com/m/315/9532/64276">jsp</a> (<a href="./Java3Spring/"> Notes </a>)</td>
+        <td> require <a href="https://login.codingdojo.com/m/315/9532/64266">Maven</a>, <a href="https://login.codingdojo.com/m/315/9532/64276">jsp</a> (<a href="./Java3Spring/">Notes</a>)</td>
     </tr>
     <tr>
         <td>W2D1 </td>
