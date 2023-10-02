@@ -10,9 +10,9 @@
    - To enable RESTful routing for forms: ```spring.mvc.hiddenmethod.filter.enabled=true```
 4. Create all the subpackages (controllers, models, services, repositories)
 5. Create the following files
-   | Package    | Files | Use | Platform reference | Demo | 
-   | ---------- | ---------------| -------------------------| ---| -- |
-   | models     | Trip class | like ERD, building the database design on server | [DomainModels](https://login.codingdojo.com/m/315/9533/64299) | Trip |
-   | repositores| TripRepository interface | To perform queries on MySQL | [Repositories](https://login.codingdojo.com/m/315/9533/64300) | TripRepo (Interface) |
-   | services   | TripService class | To handle all backend logic (will stay the same) | [Services](https://login.codingdojo.com/m/315/9533/64301) |  TripService | 
-   | controllers| HomeController class | To receive HTTP request and render the jsp |   | TripController |
+   | Package    | Files | Use | Platform reference | 
+   | ---------- | ---------------| -------------------------| ---|
+   | models     | Trip class | like ERD, building the database design on server | [DomainModels](https://login.codingdojo.com/m/315/9533/64299) |
+   | repositores| TripRepository interface | To perform queries on MySQL | [Repositories](https://login.codingdojo.com/m/315/9533/64300) |
+   | services   | TripService class | To handle all backend logic (will stay the same) | [Services](https://login.codingdojo.com/m/315/9533/64301) |  
+   | controllers| HomeController class | To receive HTTP request and render the jsp |   |
