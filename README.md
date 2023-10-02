@@ -14,8 +14,8 @@
         <td>W1D1 </td>
         <td>1</td>
         <td>Java Fundamentals</td>
-        <td>Fundamentals (<a href="./Java1Fundamentals/">Code</a>)</td>
-        <td></td>
+        <td>Fundamentals </td>
+        <td>(<a href="./Java1Fundamentals/">Code</a>)</td>
     </tr>
     <tr>
         <td>W1D2 </td>
@@ -51,7 +51,7 @@
         <td></td>
         <td></td>
         <td>Sessions & Form</td>
-        <td> </td>
+        <td>(<a href="./Java3Spring/spring-session-form-demo/">Code</a>) </td>
     </tr>
     <tr>
         <td>W2D2 </td>
