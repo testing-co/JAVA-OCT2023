@@ -18,10 +18,12 @@
    | controllers| [APIController class](./packages/APIController.java) | To receive HTTP request and render the data  (DON'T NEED IT AFTER JSP)|   |
      | controllers| [TripController class](./packages/TripController.java) | To receive HTTP request, retrieve data from service and render the jsp|   |
 6. Create all the corresponding jsp when testing each CRUD operations (NO CODE PROVIDED)
-| jsp Page |  Logic  | Reference |
-| ---------| --------| -----------|
-| tripDashboard |  Get the list of trips from service and render in jsp| Fruity Loop |
-| tripDetails |  Get the ID from PathVariable, use the ID to get the trip information from service | |
+
+
+    | jsp Page |  Logic  | Reference |
+    | ---------| --------| -----------|
+    | tripDashboard |  Get the list of trips from service and render in jsp| Fruity Loop |
+    | tripDetails |  Get the ID from PathVariable, use the ID to get the trip information from service | |
 
 
 
