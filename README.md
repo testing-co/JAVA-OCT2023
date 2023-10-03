@@ -58,7 +58,9 @@
         <td>4</td>
         <td> MVC </td>
         <td>API CRUD, Web Dashboard & Details</td>
-        <td> require <a href="https://login.codingdojo.com/m/315/9533/64293">MySQL</a> </td>
+        <td> require <a href="https://login.codingdojo.com/m/315/9533/64293">MySQL</a> 
+        (<a href="./Java4MVC/">Code & Notes</a>)
+        </td>
     </tr>
     <tr>
         <td>W2D3 </td>
