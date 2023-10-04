@@ -5,11 +5,18 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 
 import com.heidichen.mvcdemo.models.Trip;
 import com.heidichen.mvcdemo.services.TripService;
+
+import jakarta.validation.Valid;
 
 @Controller
 public class TripController {
@@ -36,4 +43,53 @@ public class TripController {
 		return "tripDetails.jsp";
 	}
 	
+	
+	@GetMapping("/trips/new")
+	public String renderCreateForm(Model model) {
+		Trip newTrip = new Trip();
+		model.addAttribute("newTrip", newTrip);
+		return "newTripForm.jsp";
+	}
+	
+	@PostMapping("/trips/new")
+	public String processCreateForm(@Valid @ModelAttribute("newTrip") Trip newTrip, BindingResult result) {
+		if(result.hasErrors()) {
+			return "newTripForm.jsp";
+		}else {
+			tripService.createTrip(newTrip);
+			return "redirect:/trips";
+		}
+	}
+	
+	// Render Edit form
+	@GetMapping("/trips/{id}/edit")
+	public String renderEditForm(@PathVariable("id")Long id, Model model) {
+		// get the trip info by id
+		Trip trip = tripService.findTrip(id);
+		// store it in Model model
+		model.addAttribute("trip", trip);
+		return "editTripForm.jsp";
+	}
+	
+	@PutMapping("/trips/{id}/edit")
+	public String processEditForm(@Valid @ModelAttribute("trip")Trip trip, BindingResult result) {
+		if(result.hasErrors()) {
+			return "editTripForm.jsp";
+		}else {
+			tripService.updateTrip(trip);
+			return "redirect:/trips";
+		}
+	}
+	
+	@DeleteMapping("/trips/{id}")
+	public String processDelete(@PathVariable("id")Long id) {
+		tripService.deleteTripById(id);
+		return "redirect:/trips";
+	}
+	
 }
+
+
+
+
+
