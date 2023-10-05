@@ -80,8 +80,8 @@
         <td> W2D5 </td>
         <td>5</td>
         <td>Auth</td>
-        <td>PseudoCode</td>
-        <td> </td>
+        <td></td>
+        <td>(<a href="./Java5FullSpring/auth/">Pseudo code</a>)</td>
     </tr>
         <tr>
         <td>  </td>
