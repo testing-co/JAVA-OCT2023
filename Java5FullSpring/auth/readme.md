@@ -7,7 +7,7 @@
 # Full Spring notes (After logreg is done)
 ## Project Setup
 #### Models: 
-- Create the one-to-many relationship between User & Trip (Check platform / [1:n readme](/Java4MVC#2-models) / Dojos & Ninjas assignment)
+- Create the one-to-many relationship between User & Trip (Check platform / [1:n readme](/Java4MVC/1nNotes.md) / Dojos & Ninjas assignment)
 
 ## Create 
 - As the owner is the logged in user, NO DROPDOWN MENU and hence.. no userList.
@@ -19,7 +19,7 @@
 ## Dashboard 
 - The dashboard will look like fruity loops 
 - owner is a User object. To display the userName, need to get it from the owner object
-- Refer to [one-to-many readme](/Java4MVC#5-controllers--views)
+- Refer to [one-to-many readme](/Java4MVC/1nNotes.md)
 
 ## FindOne 
 - get id from path variables
