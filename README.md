@@ -74,7 +74,7 @@
         <td></td>
         <td>Relationships</td>
         <td>One-to-many notes</td>
-        <td> </td>
+        <td>(<a href="./Java4MVC/1nNotes.md">Code & Notes</a>)</td>
     </tr>
     <tr>
         <td> W2D5 </td>
