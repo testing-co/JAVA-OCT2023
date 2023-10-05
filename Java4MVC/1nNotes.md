@@ -23,7 +23,7 @@
     ##### Trip model
     ```java
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name="owner")
+    @JoinColumn(name="owner_id") // the foreign key on MySQL
     private User owner;
     ```
 
@@ -64,7 +64,7 @@ Refer to the MVC demo repository interface and create one repo for each model. (
 
 4. Edit Trip
    - Refer to MVC demo for Edit
-   - If we do not wish to change the 1:n (trip), make sure use hidden input for the owner so that users cannot change it in the form 
+   - If we do not wish to change the 1:n (trip), make sure use hidden input for the owner as the path so that users cannot change it in the form ```<form:hidden path="owner" />``` 
 
 5. Delete Trip
    - Refer to MVC demo for the delete button. 
