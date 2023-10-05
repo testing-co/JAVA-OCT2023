@@ -4,6 +4,16 @@
 - application.properties: add WEB-INF config, connect to database, enable hidden methods for Put&Delete
 - create all subpackages : models, controllers, services, respositories
 
+| Package |File | Logic | 
+| -----| -------| ----- |
+| models | [User class](./models/User.java) | User table to be stored in MySQL |
+|       | [LoginUser class](./models/LoginUser.java) | a model file to be used in Login form, will not be stored in MySQL |
+| repositories | [UserRepository interface](./UserRepository.java) | Same as MVC, but add findByEmail |
+| services | [UserService](./UserService.java) | Receiving the BindingResult to further validate the log-reg form with access to database |
+| controllers | [UserController](./UserController.java) | To control the traffic and send also the BindingResult to service to further process the log-reg |
+
+
+
 # Full Spring notes (After logreg is done)
 ## Project Setup
 #### Models: 
