@@ -23,7 +23,7 @@
 - As the owner is the logged in user, NO DROPDOWN MENU and hence.. no userList.
 - Make sure you attach the userId from session to create the 1:n in Trip (can be done in form:hidden for the hidden input OR in controller)
 ```html
-    <form:hidden name="owner" value="${userId}">
+    <form:hidden path="owner" value="${userId}">
 ```
 
 ## Dashboard 
