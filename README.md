@@ -83,12 +83,19 @@
         <td></td>
         <td>(<a href="./Java5FullSpring/auth/">Pseudo code</a>)</td>
     </tr>
-        <tr>
-        <td>  </td>
+    <tr>
+        <td> W3D1 </td>
         <td></td>
         <td>Full Spring with Auth</td>
-        <td>Notes </td>
         <td> </td>
+        <td> (<a href="./Java5FullSpring/auth/">Notes</a>) </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td></td>
+        <td>More on the exam</td>
+        <td> </td>
+        <td> (<a href="./Java5FullSpring/exam.md">Notes</a>)</td>
     </tr>
     </tbody>
 </table>

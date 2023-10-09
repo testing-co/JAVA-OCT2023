@@ -85,10 +85,12 @@
 3. Finished all Red belt features and get it graded first, then work on the black belt features. 
 4. <a href="https://login.codingdojo.com/m/315/9537/81392"> Rubrics </a>
 
-### Red Belt
+### To pass the exam
 1. Full CRUD (Create, Read, Update, Delete)
 2. One-to-many relationship
 3. Login & Registration
+    ##### Red Belt: Uploading the complete project within 5 hours. 
+    ##### Orange Belt: Uploading the complete project within 8 hours.
 
 
 ### Black Belt: (Completing stretched goals to achieve mastery) 
