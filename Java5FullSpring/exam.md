@@ -91,8 +91,10 @@
 3. Login & Registration
 
 
-### Black Belt: (advanced features) 
-1. We don't talk about black belt features 
-2. 24 hours to deploy it (dm me with your URL/IP)
+### Black Belt: (Completing stretched goals to achieve mastery) 
+1. Completing stretched goals successfully
+2. More route protection
+3. Advanced queries
+4. n:m
 
 
